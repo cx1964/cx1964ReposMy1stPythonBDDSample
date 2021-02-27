@@ -8,7 +8,7 @@
 #            source project_my1stPythonBDDSample.sh
 
 cd /
-export HomeDir="/home/claude/Desktop/sources/python/python3/cx1964ReposMy1stPythonBDDSample"
+export HomeDir="/home/claude/Documents/sources/python/python3/cx1964ReposMy1stPythonBDDSample"
 cd $HomeDir
 echo $HomeDir
 

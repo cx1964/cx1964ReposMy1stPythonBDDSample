@@ -1,7 +1,7 @@
 # filename: 100_install_libs_cx1964ReposMy1stPythonBDDSample.sh
 # functie:  install libraries tbv My1stPythonBDDSample
 
-export HomeDir="/home/claude/Desktop/sources/python/python3/cx1964ReposMy1stPythonBDDSample"
+export HomeDir="/home/claude/Documents/sources/python/python3/cx1964ReposMy1stPythonBDDSample"
 cd $HomeDir
 echo $HomeDir
 
