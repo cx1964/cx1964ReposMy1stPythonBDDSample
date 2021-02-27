@@ -1,6 +1,36 @@
 uitleg theorie
-https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/
+
+    Theorie testtypen: UNIT, INTEGRATION, AND END-TO-END TESTS
+    https://automationpanda.com/2017/10/14/bdd-101-unit-integration-and-end-to-end-tests/
+
+    Algemeen pytest-bdd:
+    https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/
+
+
+    BEHAVIOR-DRIVEN PYTHON
+    the behave framework for test automation
+    https://automationpanda.com/2018/05/28/behavior-driven-python/
+
+
 
 samples
+https://github.com/AndyLPK247/behavior-driven-python
+
+    sample1: pytest-bdd
+    Volg tekst uit: https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/
+                    Verwijziging in Overview paragraaf behaviour-driven(https://automationpanda.com/bdd/)
+    zie subdirectory pytest-bdd
+
+
+    <<BEGIN nog afmaken en voorbeeld uitproberen>>
+    sample1: behave framework
+    https://github.com/AndyLPK247/behavior-driven-python
+    zie subdirectory behave
+    <<EINDE nog afmaken en voorbeeld uitproberen>>
+  
+
+
+
+
+Overig
 https://github.com/AndyLPK247/tau-pytest-bdd
-https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/
