@@ -3,3 +3,4 @@ https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/
 
 samples
 https://github.com/AndyLPK247/tau-pytest-bdd
+https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/
