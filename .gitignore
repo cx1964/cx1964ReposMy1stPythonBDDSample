@@ -1,3 +1,6 @@
+# Exclude python3 project libary environment
+env_python3_My1stPythonBDDSample/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

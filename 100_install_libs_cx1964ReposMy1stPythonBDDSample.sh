@@ -2,7 +2,7 @@
 # functie:  install libraries tbv My1stPythonBDDSample
 
 export HomeDir="/home/claude/Documents/sources/python/python3/cx1964ReposMy1stPythonBDDSample"
-cd $HomeDir
+
 echo $HomeDir
 
 # maak virtuele python environment voor python libraries
@@ -10,7 +10,7 @@ echo $HomeDir
 python3 -m venv env_python3_My1stPythonBDDSample
 
 # Activeren virtuele env tbv Windows machine met mingw64
-#source /$HomeDir/env_python3_data_sciences/Scripts/activate
+#source /$HomeDir/env_python3_My1stPythonBDDSample/Scripts/activate
 # Activeren virtuele env tbv Linux shell 
 source ./env_python3_My1stPythonBDDSample/bin/activate
 
