@@ -7,7 +7,6 @@ from cucumbers import CucumberBasket
 from functools import partial
 from pytest_bdd import scenarios, given, when, then, parsers
 
-
 # Partial Step Helpers
 
 CONVERTERS = {
