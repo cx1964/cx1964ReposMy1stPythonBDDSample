@@ -5,22 +5,18 @@ http://docs.python-requests.org/
 """
 
 import requests
-
 from pytest_bdd import scenarios, given, then, parsers
 
 
 # Constants
-
 DUCKDUCKGO_API = 'https://api.duckduckgo.com/'
 
 
 # Scenarios
-
 scenarios('../features/service.feature', example_converters=dict(phrase=str))
 
 
 # Given Steps
-
 @given(parsers.parse('the DuckDuckGo API is queried with "<phrase>" using "{fmt}" format'))
 def ddg_response(phrase, fmt):
     params = {'q': phrase, 'format': fmt}
@@ -29,7 +25,6 @@ def ddg_response(phrase, fmt):
 
 
 # Then Steps
-
 @then(parsers.parse('the response contains results for "<phrase>"'))
 def ddg_response_contents(ddg_response, phrase):
     # A more comprehensive test would check 'RelatedTopics' for matching phrases
