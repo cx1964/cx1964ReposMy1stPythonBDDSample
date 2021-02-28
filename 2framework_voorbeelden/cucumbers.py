@@ -1,4 +1,6 @@
 # file: cucumbers.py
+# functie: deze file bevat de code van de functionaliteit.
+#          Deze functionaliteit moet getest worden mbv een test framework.
 # Opmerking: Deze file moet in de parent directory staan van het project. 
 #            De testfiles staan in een subdirectory.add()
 #            Voor dit voorbeeld zijn er 2 test methoden, namelijk:
